@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>670226121606-8f002srkkp6361gd6uhpgele4bbi9p8c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.670226121606-8f002srkkp6361gd6uhpgele4bbi9p8c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZv6qci4dBDBbzhm7ltgDbCkuWWMgq0PY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>670226121606</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.phoneAuthentication</string>
+	<key>PROJECT_ID</key>
+	<string>phone-authentication-6d501</string>
+	<key>STORAGE_BUCKET</key>
+	<string>phone-authentication-6d501.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:670226121606:ios:5aaa44363e65c2cb852207</string>
+</dict>
+</plist>
